@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="pEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@samodelkin59.ru</Value>
+    </Setting>
+    <Setting Name="pPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Samodelkin2018</Value>
+    </Setting>
+    <Setting Name="pSmtpServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.yandex.ru</Value>
+    </Setting>
+    <Setting Name="pSmtpPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="pNameSender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ТК Самоделкин</Value>
+    </Setting>
+    <Setting Name="pEnableSsl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Рассылка</Value>
+    </Setting>
+    <Setting Name="pFileOfBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
